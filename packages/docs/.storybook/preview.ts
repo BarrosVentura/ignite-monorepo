@@ -10,9 +10,9 @@ const preview: Preview = {
         date: /Date$/i,
       },
     },
-  },
-  globals: {
-    themes: themes.dark,
+    docs: {
+      theme: themes.dark,
+    },
   },
 }
 
