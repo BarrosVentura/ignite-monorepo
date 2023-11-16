@@ -1,6 +1,6 @@
 import { StoryObj, Meta } from '@storybook/react'
 
-import { Text, TextProps } from '@ignite-ui/react'
+import { Text, TextProps } from '@ventura-ignite-ui/react'
 
 export default {
   title: 'Typegraphy/Text',

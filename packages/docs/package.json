@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@ventura-ignite-ui/docs",
   "version": "0.0.0",
   "main": "index.js",
   "description": "",
@@ -10,9 +10,9 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@ventura-ignite-ui/eslint-config": "*",
+    "@ventura-ignite-ui/react": "*",
+    "@ventura-ignite-ui/tokens": "*",
     "@storybook/addon-a11y": "^7.5.3",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
