@@ -10,7 +10,7 @@ export default {
     content: 'This is a tooltip text',
   },
   argTypes: {
-    src: {
+    content: {
       control: {
         type: 'text',
       },

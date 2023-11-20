@@ -1,5 +1,11 @@
 # @ventura-ignite-ui/react
 
+## 2.2.0
+
+### Minor Changes
+
+- Adiciona novo componente de Toast
+
 ## 2.1.0
 
 ### Minor Changes
